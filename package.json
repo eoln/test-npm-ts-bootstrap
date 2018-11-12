@@ -1,0 +1,22 @@
+{
+  "name": "@eoln/test-npm-ts-bootstrap",
+  "version": "1.0.0",
+  "description": "test of importing npm-ts-bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoln/test-npm-ts-bootstrap.git"
+  },
+  "author": "pm@eoln.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eoln/test-npm-ts-bootstrap/issues"
+  },
+  "homepage": "https://github.com/eoln/test-npm-ts-bootstrap#readme",
+  "dependencies": {
+    "@eoln/npm-ts-bootstrap": "0.0.2"
+  }
+}
