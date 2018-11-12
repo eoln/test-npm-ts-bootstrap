@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/eoln/test-npm-ts-bootstrap#readme",
   "dependencies": {
-    "@eoln/npm-ts-bootstrap": "0.0.2"
+    "@eoln/npm-ts-bootstrap": "0.0.6"
   }
 }
